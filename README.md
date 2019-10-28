@@ -1,7 +1,8 @@
 # online_store
 
-It was my first web project !
-It is an e-commerce website coded in 48hours using PHP HTML CSS. It sells cheese and slippers and sometimes cheese slippers. 
+It was my first web project, ts an e-commerce website coded in 48hours using PHP HTML CSS. 
+
+It sells cheese and slippers and sometimes cheese slippers. 
 
 ### How to run it :
 
